@@ -6,7 +6,7 @@
 		"dockerfile": "Dockerfile",
 		// Choose variant: latest, vnc
 		// Set `vnc` to spin up noVNC services. Useful in GitHub Codespaces.
-		"args": { "VARIANT": "latest" }
+		"args": { "VARIANT": "vnc" }
 	},
 
 	// =======================================================================
